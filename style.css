@@ -1,0 +1,25 @@
+.player1_name_input
+{
+    border-radius: 3px;
+    border-width: 8px;
+    width: 200px;
+}
+
+.player2_name_input
+{
+    border-radius: 3px;
+    border-width: 8px;
+    width: 200px;
+}
+
+div
+{
+    border-radius: 0px;
+    background-color: rosybrown;
+    width: 400px;
+}
+    
+.hello
+{
+    width: fit-content;
+}

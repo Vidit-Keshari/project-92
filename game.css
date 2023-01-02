@@ -1,0 +1,29 @@
+#output
+{
+    background-color: white;
+    border-radius: 10px;
+    border-top: 10px solid #AA4465;
+    padding: 10px;
+    float: none;
+    text-align: center;
+}
+
+#num1 
+{
+    border-radius: 3px;
+    border-width: 8px;
+    width: 200px;
+}
+
+#num2
+{
+    border-radius: 3px;
+    border-width: 8px;
+    width: 200px;
+}
+
+#my_div
+{
+    margin-top: 10px;
+    margin-left: 10px;
+}
